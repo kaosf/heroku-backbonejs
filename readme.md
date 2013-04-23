@@ -1,4 +1,4 @@
-http://ka-backbonejs.herokuapp.com/index.html
+http://ka-backbonejs.herokuapp.com
 
 ## Deploy
 
